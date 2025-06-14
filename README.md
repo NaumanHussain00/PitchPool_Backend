@@ -86,11 +86,12 @@ Server will run on: http://localhost:8000
 - POST /api/auth/login – Login and receive JWT
 
 ## Startup Routes
-- POST /api/startup/pitch – Submit a new startup pitch (Pitcher only)
-- GET /api/startup/ – View list of verified pitches (Investor only)
+- `POST /api/startup/pitch` – Submit a new startup pitch (Pitcher only)
+- `GET /api/startup/` – View list of verified pitches (Investor only)
 
 ## 🔒 Some routes are protected and role-specific
 
 ## 🧑‍💻 Author
 
 ### Nauman Hussain
+[LinkedIn](www.linkedin.com/in/nauman-hussain-a89297262)
